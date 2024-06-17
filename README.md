@@ -13,4 +13,4 @@ login again with same user name and password don’t have to worry about the pas
 application helps the user to increase his/her knowledge. Since Smartphone mobiles are being
 widely used by general population and students, the Quiz Contest application can provide on
 the Student's mobile.
-Development environment: Xcode
+
