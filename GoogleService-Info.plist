@@ -7,11 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.436665165134-kkt5o73op1rtmskpdgq79j19dsfh9ag4</string>
 	<key>API_KEY</key>
-<<<<<<< HEAD
 	<string><-put api key here-></string>
-=======
-	<string><-your api key here-></string>
->>>>>>> refs/remotes/origin/main
 	<key>GCM_SENDER_ID</key>
 	<string>436665165134</string>
 	<key>PLIST_VERSION</key>
